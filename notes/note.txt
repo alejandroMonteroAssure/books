@@ -1,0 +1,15 @@
+api
+
+https://openlibrary.org/people/mekBot/books/currently-reading.json
+
+
+
+specific book example
+
+https://openlibrary.org/works/OL17357767W.json
+
+
+img example
+
+https://covers.openlibrary.org/b/id/12364378-L.jpg
+
