@@ -1,0 +1,28 @@
+.btn{
+  margin-top: auto;
+  align-self: flex-start;
+  width: fit-content;
+  padding: .313rem .938rem;
+  border: none;
+  color: white;
+  font-family: "Manrope", sans-serif;
+  font-size: .938rem;
+  font-weight: 500;
+  background-color: #50987C;
+  border-radius: .313rem;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.btn:hover{
+  background-color: #428f76;
+}
+
+.btn:active{
+  background-color: #397e69;
+}
+
+.btn:focus-visible{
+  outline: 3px solid #dff1ea;
+  outline-offset: 2px;
+}

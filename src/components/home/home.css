@@ -1,0 +1,52 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2.5rem;
+}
+
+.container .welcome-message{
+  margin: 0;
+  max-width: 25rem;
+  text-align: center;
+  font-family: "Manrope", sans-serif;
+  font-optical-sizing: auto;
+  font-size: 1.1rem;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.site-title{
+  margin: 0;
+  font-family: "DM Serif Display", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 3.125rem;
+}
+
+.start-up-button{
+  padding: 1.25rem;
+  font-family: "Manrope", sans-serif;
+  font-size: .938rem;
+  font-weight: bold;
+  font-style: normal;
+  color: white;
+  background-color: #50987C;
+  border: none;
+  border-radius: .625rem;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.start-up-button:hover{
+  background-color: #428f76;
+}
+
+.start-up-button:active{
+  background-color: #397e69;
+}
+
+.start-up-button:focus-visible{
+  outline: 3px solid #dff1ea;
+  outline-offset: 2px;
+}
